@@ -5,3 +5,10 @@
 
 # **WE ARE NOT THE OFFICIAL GEOMETRY DASH**
  Please go check out the original game if you can. Its amazing and I (Puppet) love it a lot. Its my favorite game in the world rn and I totally dont have an addiction.
+
+# Note
+ Voltaged was using chatgpt to generate his code in secret.
+
+ I have since kicked him out of the dev team.
+
+ I (Puppet) am the only dev now.
