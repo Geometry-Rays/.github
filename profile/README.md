@@ -3,6 +3,10 @@
 
  We are making a [Geometry Dash](https://store.steampowered.com/app/322170/Geometry_Dash) fangame in rust and raylib with a backend hosted in php.
 
+ Website: http://georays.yuoqw7ywmixj55zxljkhqvcwunovze32df7pqemwacfaq2itqefbixad.onion
+
+ Website is hosted on tor because I couldn't be bothered to buy a domain
+
 # **WE ARE NOT THE OFFICIAL GEOMETRY DASH**
  Please go check out the original game if you can. Its amazing and I (Puppet) love it a lot. Its my favorite game in the world rn and I totally dont have an addiction.
 
