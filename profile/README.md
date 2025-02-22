@@ -3,7 +3,7 @@
 
  We are making a [Geometry Dash](https://store.steampowered.com/app/322170/Geometry_Dash) fangame in rust and raylib with a backend hosted in php.
 
- Website: http://georays.yuoqw7ywmixj55zxljkhqvcwunovze32df7pqemwacfaq2itqefbixad.onion
+ Website: http://georays.puppet57.xyz
 
  Website is hosted on tor because I couldn't be bothered to buy a domain
 
