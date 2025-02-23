@@ -5,8 +5,6 @@
 
  Website: http://georays.puppet57.xyz
 
- Website is hosted on tor because I couldn't be bothered to buy a domain
-
 # **WE ARE NOT THE OFFICIAL GEOMETRY DASH**
  Please go check out the original game if you can. Its amazing and I (Puppet) love it a lot. Its my favorite game in the world rn and I totally dont have an addiction.
 
