@@ -12,5 +12,3 @@
  Voltaged was using chatgpt to generate his code in secret.
 
  I have since kicked him out of the dev team.
-
- I (Puppet) am the only dev now.
