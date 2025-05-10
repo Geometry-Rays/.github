@@ -8,6 +8,11 @@
 # **WE ARE NOT THE OFFICIAL GEOMETRY DASH**
  Please go check out the original game if you can. Its amazing and I (Puppet) love it a lot. Its my favorite game in the world rn and I totally dont have an addiction.
 
+# Contact
+ To contact me (puppet) for geometry rays related matters ping me in the discord.
+
+ To contact me (puppet) for non geometry rays related matters message me on discord at marineacousticimgay (you have to be in the discord)
+
 # Note
  Voltaged was using chatgpt to generate his code in secret.
 
